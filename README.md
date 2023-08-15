@@ -1,40 +1,34 @@
-### Hi there 👋
+<h1 align="center">👋 Hello! I'm maksimblak </h1>
 
----
+<p align="center">
+ <img width="600" src="assets/github-snake.svg" alt="snake"/>
+</p>
 
-### 🤝 Социальные сети:
+### 🤝 My contacts:
 
   <div id="badges">
     <a href="https://www.linkedin.com/in/maks-vdk/" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/2504/2504799.png" width="40" height="40" alt="linkedin" />
     </a>
-    <!-- <a href="https://t.me/tehnomaniak07" target="_blank">
-      <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram group" />
-    </a>
-    <a href="https://www.youtube.com/channel/UCbORpXVw1JNc0JYFSUqLWXA" target="_blank">
-      <img src="https://cdn-icons-png.flaticon.com/512/3670/3670147.png" width="40" height="40" alt="Youtube"/>
-    </a> -->
     <a href="https://t.me/maks_VDK" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="VK Badge"/>
     </a>
-    <!-- <a href="https://dzen.ru/tehnomaniak" target="_blank">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Yandex_Zen_logo_icon.svg/1024px-Yandex_Zen_logo_icon.svg.png" width="40" height="40" alt="Zen Badge"/>
-    </a> -->
+
   </div>
 
 ---
 
-<!--
-**maksimblak/maksimblak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<details align="left">
+  <summary><h2><b>📚 My stack</b></h2></summary>
+  <p>
+    <h3>Langs</h3>
+    <img src="https://skillicons.dev/icons?i=dotnet,cs,cpp,py,java,html,css,postgres,sqlite&perline=7" />
+    <h3>Frameworks / Tools</h3>
+    <img src="https://skillicons.dev/icons?i=unity,gradle,spring,linux,hibernate,githubactions,django,docker,git,bootstrap&perline=7" />
+    <h3>Software</h3>
+    <img src="https://skillicons.dev/icons?i=visualstudio,idea,neovim,postman,ultimate&perline=7" />
+    <br>
+  </p>
+</details>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
